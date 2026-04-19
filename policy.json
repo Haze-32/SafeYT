@@ -1,0 +1,39 @@
+{
+  "mode": "light",
+  "allowOnlyApprovedChannels": false,
+  "allowedChannels": [],
+  "blockedChannels": [],
+  "blockedChannelNames": [
+    "karshnafamily"
+  ],
+  "blockedTermsExact": [
+    "ishowspeed"
+  ],
+  "blockedTermsContains": [
+    "ishowspeed",
+    "karshnafamily",
+    "prank",
+    "rage",
+    "screaming",
+    "reaction"
+  ],
+  "blockTitleWords": [
+    "ishowspeed",
+    "karshnafamily",
+    "prank",
+    "rage",
+    "screaming",
+    "reaction"
+  ],
+  "replacements": {
+    "ishowspeed": "pbs kids movement",
+    "karshnafamily": "pbs kids family activities",
+    "prank": "sesame street kindness",
+    "reaction": "pbs kids feelings",
+    "rage": "sesame street calm down"
+  },
+  "fuzzyBlockedTerms": [
+    "ishowspeed",
+    "karshnafamily"
+  ]
+}
