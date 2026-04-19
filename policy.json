@@ -1,37 +1,47 @@
-{
-  "mode": "light",
-  "allowOnlyApprovedChannels": false,
-  "allowedChannels": [],
-  "blockedChannels": [],
-  "blockedChannelNames": [
-    "karshnafamily"
-  ],
-  "blockedTermsExact": [
-    "ishowspeed"
-  ],
-  "blockedTermsContains": [
-    "ishowspeed",
-    "karshnafamily",
-    "prank",
-    "rage",
-    "screaming",
-    "reaction"
-  ],
-  "blockTitleWords": [
-    "ishowspeed",
-    "karshnafamily",
-    "prank",
-    "rage",
-    "screaming",
-    "reaction"
-  ],
-  "replacements": {
-    "ishowspeed": "pbs kids movement",
-    "karshnafamily": "pbs kids family activities",
-    "prank": "sesame street kindness",
-    "reaction": "pbs kids feelings",
-    "rage": "sesame street calm down"
-  },
+ {
+  "activeMode": "light",
+  "modes": {
+    "light": {
+      "allowOnlyApprovedChannels": false,
+      "allowedChannels": [],
+      "blockedChannels": [],
+      "blockedChannelNames": ["karshnafamily", "ishowspeed", "livespeedy"],
+      "blockedTermsExact": ["ishowspeed"],
+      "blockedTermsContains": ["ishowspeed", "karshnafamily"],
+      "blockTitleWords": ["ishowspeed", "karshnafamily"],
+      "replacements": {
+        "ishowspeed": "pbs kids movement"
+      },
+      "fuzzyBlockedTerms": ["ishowspeed", "karshnafamily"]
+    },
+    "medium": {
+      "allowOnlyApprovedChannels": false,
+      "allowedChannels": [],
+      "blockedChannels": [],
+      "blockedChannelNames": ["karshnafamily", "anotherchannel"],
+      "blockedTermsExact": ["ishowspeed"],
+      "blockedTermsContains": ["ishowspeed", "karshnafamily", "prank", "rage"],
+      "blockTitleWords": ["ishowspeed", "karshnafamily", "prank", "rage"],
+      "replacements": {
+        "ishowspeed": "pbs kids movement"
+      },
+      "fuzzyBlockedTerms": ["ishowspeed", "karshnafamily"]
+    },
+    "strict": {
+      "allowOnlyApprovedChannels": true,
+      "allowedChannels": ["REAL_SAFE_CHANNEL_ID_1", "REAL_SAFE_CHANNEL_ID_2"],
+      "blockedChannels": [],
+      "blockedChannelNames": ["karshnafamily", "anotherchannel"],
+      "blockedTermsExact": ["ishowspeed"],
+      "blockedTermsContains": ["ishowspeed", "karshnafamily", "prank", "rage", "reaction"],
+      "blockTitleWords": ["ishowspeed", "karshnafamily", "prank", "rage", "reaction"],
+      "replacements": {
+        "ishowspeed": "pbs kids movement"
+      },
+      "fuzzyBlockedTerms": ["ishowspeed", "karshnafamily"]
+    }
+  }
+}
   "fuzzyBlockedTerms": [
     "ishowspeed",
     "karshnafamily"
