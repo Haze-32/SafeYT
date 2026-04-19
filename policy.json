@@ -1,49 +1,134 @@
- {
+{
   "activeMode": "light",
   "modes": {
     "light": {
       "allowOnlyApprovedChannels": false,
       "allowedChannels": [],
       "blockedChannels": [],
-      "blockedChannelNames": ["karshnafamily", "ishowspeed", "livespeedy"],
-      "blockedTermsExact": ["ishowspeed"],
-      "blockedTermsContains": ["ishowspeed", "karshnafamily"],
-      "blockTitleWords": ["ishowspeed", "karshnafamily"],
+      "blockedChannelNames": [
+        "karshnafamily",
+        "ishowspeed",
+        "livespeedy"
+      ],
+      "blockedTermsExact": [
+        "ishowspeed"
+      ],
+      "blockedTermsContains": [
+        "ishowspeed",
+        "karshnafamily",
+        "prank",
+        "rage",
+        "screaming",
+        "reaction"
+      ],
+      "blockTitleWords": [
+        "ishowspeed",
+        "karshnafamily",
+        "prank",
+        "rage",
+        "screaming",
+        "reaction"
+      ],
       "replacements": {
-        "ishowspeed": "pbs kids movement"
+        "ishowspeed": "pbs kids movement",
+        "karshnafamily": "pbs kids family activities",
+        "prank": "sesame street kindness",
+        "reaction": "pbs kids feelings",
+        "rage": "sesame street calm down"
       },
-      "fuzzyBlockedTerms": ["ishowspeed", "karshnafamily"]
+      "fuzzyBlockedTerms": [
+        "ishowspeed",
+        "karshnafamily"
+      ]
     },
     "medium": {
       "allowOnlyApprovedChannels": false,
       "allowedChannels": [],
       "blockedChannels": [],
-      "blockedChannelNames": ["karshnafamily", "anotherchannel"],
-      "blockedTermsExact": ["ishowspeed"],
-      "blockedTermsContains": ["ishowspeed", "karshnafamily", "prank", "rage"],
-      "blockTitleWords": ["ishowspeed", "karshnafamily", "prank", "rage"],
+      "blockedChannelNames": [
+        "karshnafamily"
+      ],
+      "blockedTermsExact": [
+        "ishowspeed"
+      ],
+      "blockedTermsContains": [
+        "ishowspeed",
+        "karshnafamily",
+        "prank",
+        "rage",
+        "screaming",
+        "reaction",
+        "drama",
+        "fighting"
+      ],
+      "blockTitleWords": [
+        "ishowspeed",
+        "karshnafamily",
+        "prank",
+        "rage",
+        "screaming",
+        "reaction",
+        "drama",
+        "fighting"
+      ],
       "replacements": {
-        "ishowspeed": "pbs kids movement"
+        "ishowspeed": "pbs kids movement",
+        "karshnafamily": "pbs kids family activities",
+        "prank": "sesame street kindness",
+        "reaction": "pbs kids feelings",
+        "rage": "sesame street calm down",
+        "drama": "pbs kids friendship"
       },
-      "fuzzyBlockedTerms": ["ishowspeed", "karshnafamily"]
+      "fuzzyBlockedTerms": [
+        "ishowspeed",
+        "karshnafamily"
+      ]
     },
     "strict": {
       "allowOnlyApprovedChannels": true,
-      "allowedChannels": ["REAL_SAFE_CHANNEL_ID_1", "REAL_SAFE_CHANNEL_ID_2"],
+      "allowedChannels": [],
       "blockedChannels": [],
-      "blockedChannelNames": ["karshnafamily", "anotherchannel"],
-      "blockedTermsExact": ["ishowspeed"],
-      "blockedTermsContains": ["ishowspeed", "karshnafamily", "prank", "rage", "reaction"],
-      "blockTitleWords": ["ishowspeed", "karshnafamily", "prank", "rage", "reaction"],
+      "blockedChannelNames": [
+        "karshnafamily"
+      ],
+      "blockedTermsExact": [
+        "ishowspeed"
+      ],
+      "blockedTermsContains": [
+        "ishowspeed",
+        "karshnafamily",
+        "prank",
+        "rage",
+        "screaming",
+        "reaction",
+        "drama",
+        "fighting",
+        "roast"
+      ],
+      "blockTitleWords": [
+        "ishowspeed",
+        "karshnafamily",
+        "prank",
+        "rage",
+        "screaming",
+        "reaction",
+        "drama",
+        "fighting",
+        "roast"
+      ],
       "replacements": {
-        "ishowspeed": "pbs kids movement"
+        "ishowspeed": "pbs kids movement",
+        "karshnafamily": "pbs kids family activities",
+        "prank": "sesame street kindness",
+        "reaction": "pbs kids feelings",
+        "rage": "sesame street calm down",
+        "drama": "pbs kids friendship",
+        "roast": "sesame street sharing"
       },
-      "fuzzyBlockedTerms": ["ishowspeed", "karshnafamily"]
+      "fuzzyBlockedTerms": [
+        "ishowspeed",
+        "karshnafamily"
+      ]
     }
   }
-}
-  "fuzzyBlockedTerms": [
-    "ishowspeed",
-    "karshnafamily"
-  ]
 }
