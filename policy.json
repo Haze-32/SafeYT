@@ -34,14 +34,14 @@
         "FunnyMike225",
         "SpeedKaiClip",
         "McJuggerNuggets",
-        "Psycho Dad",
+        "Psycho Dad"
       ],
       "blockedTermsExact": [
         "ishowspeed",
         "FunnyMike225",
         "SpeedKaiClip",
         "McJuggerNuggets",
-        "Psycho Dad",
+        "Psycho Dad"
       ],
       "blockedTermsContains": [
         "ishowspeed",
@@ -53,7 +53,7 @@
         "FunnyMike225",
         "SpeedKaiClip",
         "McJuggerNuggets",
-        "Psycho Dad",
+        "Psycho Dad"
       ],
       "blockTitleWords": [
         "ishowspeed",
@@ -65,7 +65,7 @@
         "FunnyMike225",
         "SpeedKaiClip",
         "McJuggerNuggets",
-        "Psycho Dad",
+        "Psycho Dad"
       ],
       "replacements": {
         "ishowspeed": "pbs kids movement",
