@@ -23,19 +23,25 @@
         "UCAa7ZWliVU-8HEJgxpq6XJQ",
         "UC8aH9qctsSp3UiQs0B79Fyg",
         "UC7Loqgjl6wLCrJgdEe24ZDw",
-        "UCqQo7ewe87aYAe7ub5UqXMw"
+        "UCqQo7ewe87aYAe7ub5UqXMw",
+        "UC3DuuGHpc46s9UqvSsELwew",
+        "UCGMoFoNws4Wh5hixexrfeHw"
       ],
       "blockedChannelNames": [
         "karshnafamily",
         "ishowspeed",
         "livespeedy",
         "FunnyMike225",
-        "SpeedKaiClip"
+        "SpeedKaiClip",
+        "McJuggerNuggets",
+        "Psycho Dad",
       ],
       "blockedTermsExact": [
         "ishowspeed",
         "FunnyMike225",
-        "SpeedKaiClip"
+        "SpeedKaiClip",
+        "McJuggerNuggets",
+        "Psycho Dad",
       ],
       "blockedTermsContains": [
         "ishowspeed",
@@ -45,7 +51,9 @@
         "screaming",
         "reaction",
         "FunnyMike225",
-        "SpeedKaiClip"
+        "SpeedKaiClip",
+        "McJuggerNuggets",
+        "Psycho Dad",
       ],
       "blockTitleWords": [
         "ishowspeed",
@@ -55,7 +63,9 @@
         "screaming",
         "reaction",
         "FunnyMike225",
-        "SpeedKaiClip"
+        "SpeedKaiClip",
+        "McJuggerNuggets",
+        "Psycho Dad",
       ],
       "replacements": {
         "ishowspeed": "pbs kids movement",
@@ -67,7 +77,9 @@
       "fuzzyBlockedTerms": [
         "ishowspeed",
         "karshnafamily",
-        "SpeedKaiClip"
+        "SpeedKaiClip",
+        "McJuggerNuggets",
+        "Psycho"
       ]
     },
     "medium": {
