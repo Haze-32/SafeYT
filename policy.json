@@ -10,17 +10,20 @@
         "UCMwYZ-jIEPP8Phn98D_Wa8Q",
         "UCMwYZ-jIEPP8Phn98D_Wa8Q",
         "UC3xWCpnWd8l7HaiqfvtzIhQ",
-        "UCvGdsDDhMX2GcEf56YYEtpQ"
+        "UCvGdsDDhMX2GcEf56YYEtpQ",
+        "UCJU2qtReArkmAIFXBp0cyvg"
       ],
       "blockedChannelNames": [
         "karshnafamily",
         "ishowspeed",
         "livespeedy",
-        "FunnyMike225"
+        "FunnyMike225",
+        "SpeedKaiClip"
       ],
       "blockedTermsExact": [
         "ishowspeed",
-        "FunnyMike225"
+        "FunnyMike225",
+        "SpeedKaiClip"
       ],
       "blockedTermsContains": [
         "ishowspeed",
@@ -29,7 +32,8 @@
         "rage",
         "screaming",
         "reaction",
-        "FunnyMike225"
+        "FunnyMike225",
+        "SpeedKaiClip"
       ],
       "blockTitleWords": [
         "ishowspeed",
@@ -38,7 +42,8 @@
         "rage",
         "screaming",
         "reaction",
-        "FunnyMike225"
+        "FunnyMike225",
+        "SpeedKaiClip"
       ],
       "replacements": {
         "ishowspeed": "pbs kids movement",
@@ -49,7 +54,8 @@
       },
       "fuzzyBlockedTerms": [
         "ishowspeed",
-        "karshnafamily"
+        "karshnafamily",
+        "SpeedKaiClip"
       ]
     },
     "medium": {
