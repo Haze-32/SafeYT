@@ -5,7 +5,12 @@
       "allowOnlyApprovedChannels": false,
       "allowedChannels": [],
       "blockedChannels": [
-        "UC3xWCpnWd8l7HaiqfvtzIhQ"
+        "UC3xWCpnWd8l7HaiqfvtzIhQ",
+        "UC9yjPjylHdPDweJgy3tIYxQ",
+        "UCMwYZ-jIEPP8Phn98D_Wa8Q",
+        "UCMwYZ-jIEPP8Phn98D_Wa8Q",
+        "UC3xWCpnWd8l7HaiqfvtzIhQ",
+        "UCvGdsDDhMX2GcEf56YYEtpQ"
       ],
       "blockedChannelNames": [
         "karshnafamily",
@@ -45,7 +50,7 @@
       "fuzzyBlockedTerms": [
         "ishowspeed",
         "karshnafamily",
-        "FunnyMike225"
+        "FunnyMike"
       ]
     },
     "medium": {
